@@ -1,6 +1,6 @@
 >
-++ [ < ++++++++++ > - ] < ++++++    # Increment counter to 26
+++ [ < ++++++++++ > - ] < ++++++    Increment counter to 26
 >>
-++++++ [ < ++++++++++ > - ] < +++++ # Set to 'A'
+++++++ [ < ++++++++++ > - ] < +++++ Set to 'A'
 <
-[ - > . + < ]                       # Print alphabet
+[ - > . + < ]                       Print alphabet
