@@ -1,3 +1,7 @@
+Restrictions:
+    Inputs: Must be < 10
+    Output: Must be < 10
+
 ,>                                   Input first number
 ++++ [ < ---------- > - ] < -------- Subtract '0'
 >>>>>>>>>>                           Move over 10
