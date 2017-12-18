@@ -10,7 +10,7 @@ Restrictions:
 ++++ [ < ---------- > - ] < -------- Subtract '0'
 [ < +<+<+<+<+<+<+<+<+ >>>>>>>>> - ]  Make 9 copies
 <<<<<<<<<< -                         Use first number as counter
-[ - > [ - > + < ]                    And each copy to the next copy
+[ - > [ - > + < ]                    And add each copy to the next copy
 < [ > + < - ] > ]
 ++++ [ > ++++++++++ < - ] > ++++++++
 .
