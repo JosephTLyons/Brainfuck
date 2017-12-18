@@ -1,4 +1,4 @@
-,>,>                                 Input first numbers
+,>,>                                 Input numbers
 ++++ [ < ---------- > - ] < -------- Subtract '0'
 [ < + > - ]                          Add
 <
