@@ -1,6 +1,6 @@
 Restrictions:
-    Inputs: Must be < 10
-    Output: Must be > 0
+    Inputs: Must be less than 10
+    Output: Must be greater than 0
 
 ,>,                                  Input two numbers
 [ < - > - ]                          Get difference between ASCII values

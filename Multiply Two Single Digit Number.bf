@@ -1,6 +1,6 @@
 Restrictions:
-    Inputs: Must be < 10
-    Output: Must be < 10
+    Inputs: Must be less than 10
+    Output: Must be less than 10
 
 ,>                                   Input first number
 ++++ [ < ---------- > - ] < -------- Subtract '0'
