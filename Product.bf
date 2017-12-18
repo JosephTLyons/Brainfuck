@@ -1,3 +1,4 @@
+Takes two single digit numbers as inputs and returns the product
 Restrictions:
     Inputs: Must be less than 10
     Output: Must be less than 10

@@ -1,3 +1,5 @@
+Prints "HELLO, variable" where "variable" is a user-input string with a max length of 16 characters
+
 +++++++ [ > ++++++++++ < - ] > ++ .             H
 >
 ++++++ [ > ++++++++++ < - ] > +++++++++ .       E

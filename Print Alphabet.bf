@@ -1,3 +1,5 @@
+Prints the capitalized alphabet
+
 >
 ++ [ < ++++++++++ > - ] < ++++++    Increment counter to 26
 >>
