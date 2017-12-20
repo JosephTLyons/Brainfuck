@@ -12,8 +12,6 @@ Prints "HELLO(comma) variable" where "variable" is a user input string with a ma
 >
 +++ [ > ++++++++++ < - ] > ++ .                 SPACE
 
-------------------------------------------------
-
 ,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>,>                Input Name
 
 <<<<<<<<<<<<<<<<                                Return
