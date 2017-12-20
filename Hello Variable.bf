@@ -1,4 +1,4 @@
-Prints "HELLO, variable" where "variable" is a user-input string with a max length of 16 characters
+Prints "HELLO (comma) variable" where "variable" is a user-input string with a max leng of 16 char
 
 +++++++ [ > ++++++++++ < - ] > ++ .             H
 >
